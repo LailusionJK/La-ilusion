@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Ilusión | Entre la realidad y los sueños</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<img src="images/logo.png" alt="La Ilusión">
+</div>
+
+<nav>
+
+<a href="#inicio">Inicio</a>
+
+<a href="#historia">La Ilusión</a>
+
+<a href="#galeria">Galería</a>
+
+<a href="#eventos">Eventos</a>
+
+<a href="#contacto">Contacto</a>
+
+</nav>
+
+</header>
+
+
+<section id="inicio" class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-text">
+
+<h1>LA ILUSIÓN</h1>
+
+<h2>Entre la realidad y los sueños</h2>
+
+<p>
+Un rincón escondido entre la selva,
+el río y la imaginación.
+</p>
+
+<a href="#galeria" class="boton">
+Descubrir
+</a>
+
+</div>
+
+</section>
+
+
+<section id="historia">
+
+<div class="contenido">
+
+<h2>Bienvenidos</h2>
+
+<p>
+
+La Ilusión nace para quienes buscan
+naturaleza, calma y momentos auténticos.
+
+Aquí el tiempo desaparece.
+
+Solo existen el río,
+los árboles,
+el fuego
+y las personas.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="galeria">
+
+<h2>Galería</h2>
+
+<div class="grid">
+
+<img src="images/foto1.jpg">
+
+<img src="images/foto2.jpg">
+
+<img src="images/foto3.jpg">
+
+<img src="images/foto4.jpg">
+
+<img src="images/foto5.jpg">
+
+<img src="images/foto6.jpg">
+
+</div>
+
+</section>
+
+
+
+<section id="eventos">
+
+<h2>Próximos Eventos</h2>
+
+<div class="cards">
+
+<div class="card">
+
+🔥
+
+<h3>Fire Circle</h3>
+
+<p>Noches alrededor del fuego.</p>
+
+</div>
+
+<div class="card">
+
+🎬
+
+<h3>Cine</h3>
+
+<p>Cine bajo las estrellas.</p>
+
+</div>
+
+<div class="card">
+
+🎨
+
+<h3>Talleres</h3>
+
+<p>Arte, naturaleza y comunidad.</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="contacto">
+
+<h2>Encuéntranos</h2>
+
+<a class="whatsapp" href="#">
+WhatsApp
+</a>
+
+<a class="instagram" href="#">
+Instagram
+</a>
+
+<a class="maps" href="#">
+Google Maps
+</a>
+
+</section>
+
+
+
+<footer>
+
+<img src="images/logo.png">
+
+<p>
+
+La Ilusión
+
+<br>
+
+Entre la realidad y los sueños
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
